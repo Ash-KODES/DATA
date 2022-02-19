@@ -1,3 +1,1 @@
-# DATA
-I WILL STORE ALL THE PICTURE AND DATA THAT I MAY USE IN DIFFRENT REPOSITARY
-1.GsWOC 2021
+Every picture aur data that I used in any project that is globally hosted.
